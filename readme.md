@@ -8,6 +8,7 @@
 
 - [2.1 Функции потерь, сверточные сети (28.12.2024)](Lecture%207)
 - [2.2 PyTorch Lightning, Learning Rate Schedulers (30.12.2024)](Lecture%208)
+- [2.3 Dropout2d, BatchNorm2d, NLP basics (13.01.2025)](Lecture%209)
 
 ______
 
@@ -16,6 +17,7 @@ ______
 | #    |   Тема   |  Max Балл | Мягкий Дедлайн | Жесткий Дедлайн |
 |------|----------|-----------|----------------|-----------------|
 | [ДЗ 1](HW/hw_1/itmo_dl_course_hw_1.md) | Создание и обучение MLP | 10 | 11.01.2025 20:00 МСК| 14.01.2025 20:00 МСК|
+| [ДЗ 2](HW/hw_2/itmo_dl_course_hw_2.md) | Создание и обучение AlexNet | 10 | 21.01.2025 20:00 МСК| 27.01.2025 20:00 МСК|
 
 ______
 
@@ -24,5 +26,6 @@ ______
 | #    |   Тема   |  Max Балл | Жесткий Дедлайн |
 |------|----------|-----------|-----------------|
 | [Extra Task 1](HW/itmo_dl_course_extra_task_1.md) | Создание и обучение MLP | 5 | 31.12.2024 20:00 МСК|
-| [Extra Task 2](HW/itmo_dl_course_extra_task_2.md) | Классификатор FashionMNIST на PyTorch Lightning | 5 | 18.01.2024 20:00 МСК|
+| [Extra Task 2](HW/itmo_dl_course_extra_task_2.md) | Классификатор FashionMNIST на PyTorch Lightning | 5 | 18.01.2025 20:00 МСК|
+| [Extra Task 3](HW/itmo_dl_course_extra_task_3.md) | Классификация текстов с CNN и RNN | 5 | 25.01.2025 20:00 МСК|
 
